@@ -257,6 +257,24 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maher-Bhatt&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maher-Bhatt&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maher-Bhatt&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maher-Bhatt&theme=github_dark" width="49%" />
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -274,6 +292,16 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maher-Bhatt&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
+
+</div>
+
+<br/>
+
+**3D Contribution Calendar**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Maher-Bhatt/Maher-Bhatt/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
