@@ -250,17 +250,8 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maher-Bhatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Maher-Bhatt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Maher-Bhatt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maher-Bhatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="70%"/>
 </div>
 
 <br/>
