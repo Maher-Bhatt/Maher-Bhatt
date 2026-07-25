@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maher%20Bhatt&fontSize=52&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20Builder%20%7C%20Product-Minded%20Developer&descAlignY=58&descSize=17&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maher%20Bhatt&fontSize=52&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Founder%2C%20Velocity%20Web&descAlignY=58&descSize=17&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%7C+React+%26+TypeScript;Co-Founder+%40+Velocity+Web;Building+FinMate+AI+%26+KALKI;Cybersecurity+%2B+CTF+Enthusiast;Honest+Engineering%2C+No+Overclaiming." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Enthusiast;Founder+%40+Velocity+Web;Building+K.A.L.K.I.+%C2%B7+AI+Voice+Assistant;Building+CodeDroid+%C2%B7+Mobile+IDE+for+Android;Honest+Engineering%2C+No+Overclaiming." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Academic](https://img.shields.io/badge/B.Tech%20CSE-ITM%20(SLS)%20Baroda%20University%20%C2%B7%202025--2029-4C1D95?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍-Kalol,%20Gujarat,%20India-4C1D95?style=for-the-badge)
+![Academic](https://img.shields.io/badge/B.Tech%20CSE%20(Core)-ITM%20SLS%20Baroda%20University%20%C2%B7%202025--2029-4C1D95?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-Kalol,%20Panchmahal,%20Gujarat,%20India-4C1D95?style=for-the-badge)
 
 <br/>
 
@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maher-bhatt-206035362)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maherbhatt01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maher-Bhatt)
+[![Credly](https://img.shields.io/badge/Credly-FF6D00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/maher-bhatt)
 
 <br/>
 
@@ -30,11 +31,11 @@
 
 ## 🪶 About Me
 
-I'm a Computer Science undergraduate at **ITM (SLS) Baroda University**, building production software at the intersection of **frontend engineering**, **applied AI integration**, and **product ownership**.
+I'm a 2nd-year B.Tech Computer Science (Core) student at **ITM SLS Baroda University** and the founder of **Velocity Web**, a custom web development agency where I build React/TypeScript products for real clients.
 
-I co-founded **Velocity Web**, a custom web development agency, where I own technical architecture and delivery end-to-end — from UI systems to client-facing production sites. Alongside that, I'm building **FinMate AI**, an AI-powered bookkeeping product for the Indian fintech market, and maintaining **KALKI**, an open-source, LLM-powered personal assistant.
+I'm upfront about how I build: every project in this profile was shipped through an **AI-assisted "vibe coding" workflow** — I'm actively transitioning from that toward mastering the fundamentals under the hood (see my [IT Roadmap](#-current-focus) below), rather than presenting AI-assisted output as hand-rolled expertise it isn't.
 
-I work in a modern, AI-assisted engineering workflow — pairing with large language models to design, build, and ship faster — and I'm transparent about that process rather than presenting it as something it isn't. I'd rather be accurate about what I've built than inflate it.
+Beyond web development, I compete in **CTF challenges and Bug Bounty events** (2nd place at Security BSides Vadodara), run **OSINT and ethical-hacking awareness sessions** at schools, and dabble in Generative AI, Unreal Engine game dev, and cloud platforms.
 
 **Currently Open To:**
 - 🎯 Frontend / Full-Stack Engineering Internships
@@ -43,23 +44,27 @@ I work in a modern, AI-assisted engineering workflow — pairing with large lang
 
 ---
 
-## 🧬 Tech Stack
+## 🧬 Skills & Technologies
 
-**Languages**
+**Languages I Know**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,c&theme=dark" />
 
-**Frontend**
+**Frameworks & Tools I Build With (AI-Assisted)**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,kotlin&theme=dark" />
 
-**Backend & Databases**
+**Cloud & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vercel,vscode&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Cybersecurity**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,figma&theme=dark" />
+CTF Competitions (7–8+) · OSINT · Bug Bounty · Ethical Hacking · Burp Suite · Network Security · Steganography · RAT Analysis
+
+**AI & Data**
+<br/>
+Generative AI · Prompt Engineering · Gemini API · Vertex AI · Streamlit · Python (Data Basics)
 
 ---
 
@@ -69,10 +74,11 @@ I work in a modern, AI-assisted engineering workflow — pairing with large lang
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLM API Integration** | Applied | Integrated the Groq API (`llama-3.3-70b-versatile`) as the primary conversational AI backend in KALKI, with Ollama as a local fallback |
-| **Prompt Engineering** | Applied | Structures prompts for reliable, production-grade AI-assisted ("vibe coding") development across personal and client projects |
-| **Voice & Speech AI** | Applied | `edge-tts` speech synthesis and real-time speech recognition wired into KALKI's voice interaction pipeline |
-| **AI-Assisted Software Delivery** | Practitioner | Workflow-level use of AI pair-programming to ship real, deployed code — from architecture to production |
+| **LLM API Integration** | Applied | K.A.L.K.I. runs a multi-model cognitive router — Groq LLaMA-3.3-70B for conversation, LLaMA-4-Scout for vision, and offline Ollama as a local fallback |
+| **Prompt Engineering** | Applied | Structures prompts for reliable, production-grade AI-assisted development across personal and client projects |
+| **Voice & Real-Time Systems** | Applied | `edge-tts` speech synthesis, real-time speech recognition, and Server-Sent Events streaming wired into KALKI's HUD |
+| **Applied Security Tooling** | Applied | Built KALKI's cybersecurity toolkit — Webscan, Shodan OSINT lookups, and CVE intelligence |
+| **AI-Assisted Software Delivery** | Practitioner | Workflow-level use of AI pair-programming ("vibe coding") to ship real, deployed code — from architecture to production |
 
 </div>
 
@@ -81,87 +87,92 @@ I work in a modern, AI-assisted engineering workflow — pairing with large lang
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🛰️ KALKI — Open-Source AI Personal Assistant</strong></summary>
+<summary><strong>🛰️ K.A.L.K.I. v1.0.24 — AI Voice Assistant</strong></summary>
 <br/>
 
-An Iron Man–inspired, open-source Python personal assistant with a dark HUD interface, LLM-backed conversation, and system-level integrations.
+A fully voice-controlled, autonomous AI assistant for Windows, engineered for power users.
 
 | | |
 |---|---|
-| **Stack** | Python · Groq API · Ollama · edge-tts · Speech Recognition |
-| **Scale** | Single-user desktop assistant with persistent memory bank |
-| **Performance** | Local (Ollama) fallback preserves functionality when cloud AI is unavailable |
-| **Security** | Local, encrypted credential vault |
-| **Impact** | Open-source, growing through organic community engagement |
+| **Stack** | Python 3.11 · Groq LLaMA · Edge-TTS · Canvas2D · DPAPI · Shodan API · Firebase |
+| **Scale** | Single-user desktop assistant with a semantic memory bank |
+| **Performance** | Multi-model cognitive router (Groq LLaMA-3.3-70B, LLaMA-4-Scout Vision, offline Ollama) with real-time SSE streaming |
+| **Security** | Hardware-bound DPAPI secure vault; built-in cybersecurity toolkit (Webscan, Shodan OSINT, CVE intel) |
+| **Impact** | Premium state-reactive PWA HUD, Telegram Bot control, live on the Microsoft Store |
 | **Repository** | [github.com/Maher-Bhatt/KALKI](https://github.com/Maher-Bhatt/KALKI) |
+| **Install** | [GitHub Releases](https://github.com/Maher-Bhatt/KALKI/releases) · [Microsoft Store](https://apps.microsoft.com/detail/9P6HJPQZBGFQ) |
 
 </details>
 
 <details>
-<summary><strong>📚 ITM Notes — Full-Stack Study Platform</strong></summary>
+<summary><strong>📱 CodeDroid — Mobile IDE for Android</strong></summary>
 <br/>
 
-A full-stack study platform built for ITM B.Tech students, covering subject-wise notes, MCQ practice, and admin-managed content.
+A pocket IDE for Android that actually runs your code, on-device and offline.
+
+| | |
+|---|---|
+| **Stack** | Kotlin · Jetpack Compose · Material 3 · CodeMirror · Chaquopy · Rhino · Piston API |
+| **Scale** | Python and JavaScript execute fully offline (Chaquopy + Rhino); 14+ more languages run via a free cloud runner (Piston) |
+| **Performance** | Offline CodeMirror editor with syntax highlighting for 18 languages, autocomplete, Vim keybindings |
+| **Security** | Integrated terminal with colored output/stdin, runtime Python-package installs |
+| **Impact** | Persistent file tabs, live HTML/CSS preview, warm-dark "brass" theme |
+| **Repository** | [github.com/Maher-Bhatt/CodeDroid](https://github.com/Maher-Bhatt/CodeDroid) |
+| **Install** | [Download APK](https://github.com/Maher-Bhatt/CodeDroid/releases/latest) |
+
+</details>
+
+<details>
+<summary><strong>🏢 Velocity Web — Agency Website</strong></summary>
+<br/>
+
+The client-facing site for Velocity Web, the custom web development agency I founded with Anurag Pandey and Jaydev Singh Gohil.
+
+| | |
+|---|---|
+| **Stack** | React 18 · TypeScript · Vite · Tailwind CSS · Framer Motion · GSAP · Three.js · Node.js |
+| **Scale** | Small agency serving individual business clients, India + international |
+| **Performance** | Dark luxury aesthetic with gold accents, animated hero, 3D elements, GSAP scroll animations |
+| **Security** | Standard frontend security practices |
+| **Impact** | Quote-request form routes to WhatsApp; pricing tiers ₹15k–₹45k; built to convert visitors into paying clients |
+| **Repository** | [github.com/Maher-Bhatt/velocity-web](https://github.com/Maher-Bhatt/velocity-web) |
+| **Live** | [velocityweb.online](https://velocityweb.online) |
+
+</details>
+
+<details>
+<summary><strong>👕 Z Tees — E-Commerce Storefront</strong></summary>
+<br/>
+
+Premium streetwear storefront for an independent graphic t-shirt brand.
+
+| | |
+|---|---|
+| **Stack** | React 18 · TypeScript · Vite · React Router · Framer Motion · Tailwind CSS |
+| **Scale** | 32-piece catalog built around a 240 GSM heavyweight drop |
+| **Performance** | Slug-based product routing, multi-image galleries, CartContext-driven cart |
+| **Security** | WhatsApp-first checkout (UPI only, no payment gateway) |
+| **Impact** | Editorial light redesign, live production storefront |
+| **Repository** | Private brand project |
+| **Live** | [ztees.store](https://ztees.store) |
+
+</details>
+
+<details>
+<summary><strong>📚 ITM Notes — Study Platform</strong></summary>
+<br/>
+
+A full-stack CET exam-prep platform for ITM B.Tech CSE students, co-built with Anurag Pandey.
 
 | | |
 |---|---|
 | **Stack** | React · TypeScript · Vite · Supabase · Tailwind CSS · shadcn/ui |
-| **Scale** | Multi-subject platform (C, Python, Digital Electronics, PSR, Financial Accounting) |
-| **Performance** | Code-split subject dashboards, optimized Vite build pipeline |
+| **Scale** | Multi-subject platform (C, Python, Digital Electronics, Probability & Statistics with R, Financial Accounting) |
+| **Performance** | 150+ MCQs, accordion Q&A, code-split subject dashboards |
 | **Security** | Supabase auth with email verification and download gating |
-| **Impact** | Actively used by ITM CSE students for exam prep and MCQ practice |
-| **Repository** | Private |
-
-</details>
-
-<details>
-<summary><strong>👕 Z-Tees — E-Commerce Storefront</strong></summary>
-<br/>
-
-A production e-commerce site for an independent graphic t-shirt brand, with a WhatsApp-based ordering flow.
-
-| | |
-|---|---|
-| **Stack** | React · TypeScript · Context API · WhatsApp Business integration |
-| **Scale** | Single-brand production storefront |
-| **Performance** | Deduplicated product schema, consolidated CSS, removed unused dependencies |
-| **Security** | Client-side cart context with WhatsApp order handoff |
-| **Impact** | Live, in-production storefront for an independent apparel brand |
-| **Repository** | Private · Live at [ztees.store](https://ztees.store) |
-
-</details>
-
-<details>
-<summary><strong>💸 FinMate AI — AI-Powered Fintech for Indian Freelancers & SMEs</strong></summary>
-<br/>
-
-An AI-powered personal finance and bookkeeping product targeting Indian freelancers and small shopkeepers — currently in market validation.
-
-| | |
-|---|---|
-| **Stack** | React · TypeScript (planned) · AI-assisted bookkeeping logic |
-| **Scale** | Pre-launch — problem validation phase |
-| **Performance** | N/A — pre-development |
-| **Security** | N/A — pre-development |
-| **Impact** | Validating against Zoho Books, Tally Prime, ClearTax, Vyapar, Jupiter, and Walnut |
-| **Repository** | Private (in planning) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Velocity Web — Agency Platform</strong></summary>
-<br/>
-
-The client-facing site and technical foundation for Velocity Web, a custom web development agency I co-founded.
-
-| | |
-|---|---|
-| **Stack** | React · TypeScript · Vite · Tailwind CSS |
-| **Scale** | Small agency serving individual business clients |
-| **Performance** | Lazy-loaded Three.js/GSAP, WebP imagery, code splitting |
-| **Security** | Standard frontend security practices |
-| **Impact** | Delivered client-facing production websites |
-| **Repository** | Private |
+| **Impact** | Actively used by ITM CSE students for exam prep |
+| **Repository** | [github.com/Maher-Bhatt/itm-notes](https://github.com/Maher-Bhatt/itm-notes) |
+| **Live** | [itm-notes-new.vercel.app](https://itm-notes-new.vercel.app/) |
 
 </details>
 
@@ -169,16 +180,33 @@ The client-facing site and technical foundation for Velocity Web, a custom web d
 <summary><strong>🪞 Personal Portfolio — maherbhatt.me</strong></summary>
 <br/>
 
-A minimal, editorial-style personal portfolio and resume site.
+This profile's companion site — a minimal, editorial-style personal portfolio and resume site.
 
 | | |
 |---|---|
-| **Stack** | React · TypeScript · Vite · EmailJS |
+| **Stack** | React · TypeScript · Vite · Framer Motion · Tailwind CSS |
 | **Scale** | Personal single-page site |
-| **Performance** | Lightweight, no glow/shadow effects, DM Sans typography |
+| **Performance** | Lightweight, grayscale-to-color hover treatment, editorial typography |
 | **Security** | N/A |
-| **Impact** | ATS-optimized resume generation and contact workflow |
+| **Impact** | ATS-optimized resume generation, WhatsApp/email contact workflow |
 | **Repository** | Live at [maherbhatt.me](https://maherbhatt.me) |
+
+</details>
+
+<details>
+<summary><strong>💸 FinMate AI — AI-Powered Fintech Concept (On Hold)</strong></summary>
+<br/>
+
+An AI-powered personal finance and bookkeeping concept aimed at Indian freelancers and small shopkeepers, currently on hold.
+
+| | |
+|---|---|
+| **Stack** | React · TypeScript (planned) · AI-assisted bookkeeping logic |
+| **Scale** | Concept stage — competitor research and V1 feature scoping completed |
+| **Performance** | N/A — on hold |
+| **Security** | N/A — on hold |
+| **Impact** | Validated concept against Zoho Books, Tally Prime, ClearTax, Vyapar, Jupiter, and Walnut; paused pending co-founder bandwidth |
+| **Repository** | Private |
 
 </details>
 
@@ -186,27 +214,35 @@ A minimal, editorial-style personal portfolio and resume site.
 
 ## 💼 Experience
 
-### Co-Founder & Lead Engineer
-**Velocity Web** · Mar 2026 – Present
+### Founder & Lead Developer
+**Velocity Web** · Mar 2026 – Present · Kalol, Gujarat, India (Remote-first)
 
-Custom web development agency serving individual business clients, where I own technical architecture, frontend implementation, and delivery end-to-end.
+Custom web development agency founded with 2 co-founders — Anurag Pandey and Jaydev Singh Gohil.
 
-- Architected and built the agency's client-facing site using React, TypeScript, Vite, and Tailwind CSS
-- Led full site audits and re-themes, rebuilding core UI sections for a consistent brand presentation
-- Delivered production websites for paying clients — from architecture through deployment
-- Partnered with co-founders on go-to-market and SEO strategy
+- Shipped production websites for paying clients using React, TypeScript, Vite, and Tailwind
+- Built the Velocity Web agency site, Z Tees e-commerce store, and CodeDroid (Android IDE)
+- Ran Google Ads campaigns for client acquisition; set up PayPal for international payments
+- Pricing tiers: ₹15k–₹25k (Basic) · ₹30k–₹45k (Standard); 2nd client secured
+- Active client pipeline across India and international markets
 
 `React` `TypeScript` `Tailwind CSS` `Vite` `SEO` `Client Delivery`
 
-### Co-Founder
-**FinMate AI** · 2026 – Present
+### Python Development Intern
+**QSkill** (by Squarcell Resource India Pvt. Ltd) · Apr 1 – May 1, 2026 · Virtual / Remote
 
-Early-stage AI-powered fintech product targeting Indian freelancers and small shopkeepers.
+- Completed a 1-month virtual Python Development Internship
+- Structured learning sessions, tasks, and mentor-guided projects
+- Practical exposure to Python development workflows and industry practices
+- Received a Letter of Recommendation from Subhajit Roy, Co-Founder, SR INDIA
 
-- Leading market validation research against incumbent Indian fintech tools
-- Co-defining the product blueprint and MVP roadmap
+`Python` `Internship` `Mentored Projects`
 
-`Product Research` `Fintech` `AI Product Design`
+### B.Tech Computer Science (Core)
+**ITM SLS Baroda University** · 2025 – 2029 · Vadodara, Gujarat, India
+
+- Core subjects: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Digital Electronics
+- Applied Mathematics: Probability & Statistics with R — conducted original student gaming-habits research
+- Active participant in hackathons, CTF competitions, and cybersecurity events
 
 ---
 
@@ -216,22 +252,28 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 
 | Recognition | Details |
 |---|---|
-| 🥈 2nd Place — Bug Bounty Competition | Security BSides Vadodara |
-| 🎯 4th Place — Capture The Flag (CTF) | Security BSides Vadodara |
+| 🥈 2nd Place — Bug Bounty Challenge | Security BSides Vadodara, powered by Barracks Technologies. Team (Ankush Prasad, Bhumika Sahani, Maher Bhatt) were the only winners from ITM SLS Baroda University at the event |
+| 🎯 4th Place — Capture The Flag (CTF) | Security BSides Vadodara — same event |
+| 🕵️ OSINT & Cybersecurity Seminar | Jawahar Navodaya Vidyalaya — led an awareness session with live MITM attack, phishing simulation, steganography, and Burp Suite demos |
+| 🎮 Illuminati Game Jam | Built a game in Unreal Engine under the "Illuminati" theme |
 | 🏅 Winner — AI Meme Challenge | Raccoon AI Event, ITM |
-| ☁️ 24 Google Cloud Skill Badges | Verified on Credly |
-| 🧭 Participant — Google Build with AI Bootcamp | Mumbai |
-| 🔍 Participant — OSINT Seminar | JNV |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Internships
 
-**Google Cloud**
+27+ verified credentials, including a professional internship and a letter of recommendation. Full list on [Credly](https://credly.com/users/maher-bhatt).
 
-![Google Cloud Skill Badges](https://img.shields.io/badge/Google%20Cloud-24%20Skill%20Badges%20(Credly)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+- **Professional:** QSkill Python Development Internship (Apr–May 2026) + Letter of Recommendation
+- **Competitions:** NCFE × Hack2skill — Innovate4FinLit Game Challenge (Jul 2026)
+- **Google Cloud:** ~20 Skill Badges — spanning Vertex AI prompt design, Agent Development Kit (ADK), Cloud Storage, Pub/Sub, App Engine, Cloud Functions, and more
+- **IBM (Skills Network):** Python for Data Science · Data Analysis Using Python · Data Visualization Using Python
+- **Outskill:** Generative AI Mastermind (Vaibhav Sisinty)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-~20%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-3%20Certifications-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
@@ -241,6 +283,8 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maher--Bhatt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maher-Bhatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maher-bhatt-206035362)
+[![Credly](https://img.shields.io/badge/Credly-View%20Badges-FF6D00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/maher-bhatt)
+[![Agency](https://img.shields.io/badge/Velocity%20Web-Agency%20Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://velocityweb.online)
 
 </div>
 
@@ -263,16 +307,6 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maher-Bhatt&theme=github_dark" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maher-Bhatt&theme=github_dark" width="49%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maher-Bhatt&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -313,12 +347,15 @@ Early-stage AI-powered fintech product targeting Indian freelancers and small sh
 ```yaml
 current_focus:
   learning:
+    - Fundamentals under the hood — moving from vibe coding to real command
+      of Git, Python, DSA, DBMS, Java/OOP, and web dev (per my IT Roadmap)
     - Backend architecture (Node.js, Express, Firebase)
-    - Applied AI / LLM-powered product design
   building:
-    - FinMate AI — AI-powered bookkeeping for Indian freelancers & SMEs
-    - KALKI v5.00 — full HUD redesign of the open-source AI assistant
+    - K.A.L.K.I. — ongoing patch releases past v1.0.24
+    - CodeDroid — mobile IDE for Android
     - Velocity Web — client delivery & agency growth
+  on_hold:
+    - FinMate AI — AI-powered bookkeeping concept, paused pending bandwidth
   exploring:
     - Offensive security / CTF (OSINT, reverse engineering)
     - Web3 & Solidity fundamentals
