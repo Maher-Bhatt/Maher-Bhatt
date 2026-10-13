@@ -1,14 +1,177 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Maher Bhatt — Full-Stack Developer, Security, AI Systems, Founder"><defs><clipPath id="c"><rect width="1200" height="420" rx="22"/></clipPath><radialGradient id="vig" cx="50%" cy="0%" r="90%"><stop offset="0" stop-color="#1D1D22"/><stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/></radialGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.05 0"/></filter></defs><g clip-path="url(#c)"><rect width="1200" height="420" fill="#0B0B0D"/><rect width="1200" height="420" fill="url(#vig)"/><rect width="1200" height="420" filter="url(#grain)"/><defs>
-<linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0">
-<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
-<animateTransform attributeName="gradientTransform" type="translate" values="-300 0;-300 0;1250 0" keyTimes="0;0.15;1" dur="9s" begin="2.2s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.4 0 0.2 1"/></linearGradient></defs>
-<g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8A8A93"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-<circle cx="52" cy="50" r="3.5" fill="#C9CCD1"><animate attributeName="opacity" values="1;0.25;1" dur="3.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></circle>
-<text x="68" y="54">AVAILABLE FOR INTERNSHIPS + FREELANCE</text><text x="1148" y="54" text-anchor="end">KALOL, INDIA</text></g>
-<g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="7" fill="#8A8A93" text-anchor="middle"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="600" y="158">FULL-STACK DEVELOPER</text></g>
-<g opacity="0" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="12" text-anchor="middle"><animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-<text x="600" y="246" fill="#B9BCC2">MAHER BHATT</text><text x="600" y="246" fill="url(#sheen)">MAHER BHATT</text></g>
-<rect x="560" y="272" width="0" height="1" fill="#C9CCD1"><animate attributeName="width" from="0" to="80" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
-<g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="14" letter-spacing="6" fill="#8A8A93" text-anchor="middle"><animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="600" y="312">SECURITY   ·   AI SYSTEMS   ·   FOUNDER</text></g>
-<g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="4" fill="#6B6B73" text-anchor="middle"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="600" y="372">K.A.L.K.I.     /     CODEDROID     /     CIVIC SATHI     /     MULTI-AGENT RESEARCH</text></g>
-<g fill="none" stroke="#C9CCD1" stroke-width="1" opacity="0.55"><path d="M28 64V34a6 6 0 0 1 6-6h30"/><path d="M1172 64V34a6 6 0 0 0-6-6h-30"/><path d="M28 356v30a6 6 0 0 0 6 6h30"/><path d="M1172 356v30a6 6 0 0 1-6 6h-30"/></g></g><rect x="0.5" y="0.5" width="1199" height="419" rx="22" fill="none" stroke="#3A3A42" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Maher Bhatt — Full-Stack Developer, Security, AI Systems, Founder">
+<defs>
+  <clipPath id="c"><rect width="1200" height="420" rx="22"/></clipPath>
+  
+  <!-- Obsidian dark vignette -->
+  <radialGradient id="vig" cx="50%" cy="0%" r="90%">
+    <stop offset="0" stop-color="#1D1D22"/>
+    <stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+  
+  <!-- Ambient glowing gradient mesh aura behind title -->
+  <radialGradient id="titleAura" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.32"/>
+    <stop offset="35%" stop-color="#38BDF8" stop-opacity="0.18"/>
+    <stop offset="70%" stop-color="#0EA5E9" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+  
+  <radialGradient id="titleCoreGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#C084FC" stop-opacity="0.28"/>
+    <stop offset="50%" stop-color="#818CF8" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- High-tech iridescent metallic sheen sweep -->
+  <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="320" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="0.25" stop-color="#38BDF8" stop-opacity="0.35"/>
+    <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.95"/>
+    <stop offset="0.7" stop-color="#A78BFA" stop-opacity="0.45"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-380 0;-380 0;1360 0" keyTimes="0;0.12;1" dur="7.5s" begin="2.0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.25 0 0.25 1"/>
+  </linearGradient>
+
+  <!-- Glowing divider line gradient -->
+  <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset="30%" stop-color="#38BDF8" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+    <stop offset="70%" stop-color="#818CF8" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+  </linearGradient>
+
+  <!-- Subtle grain filter -->
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+    <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.04 0"/>
+  </filter>
+
+  <!-- Soft glow filter for radar and status elements -->
+  <filter id="glowDot" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<g clip-path="url(#c)">
+  <!-- Base background layers -->
+  <rect width="1200" height="420" fill="#0B0B0D"/>
+  <rect width="1200" height="420" fill="url(#vig)"/>
+  <rect width="1200" height="420" filter="url(#grain)"/>
+
+  <!-- Subtle cyber background grid / crosshairs -->
+  <g opacity="0.08" stroke="#FFFFFF" stroke-width="1">
+    <line x1="200" y1="0" x2="200" y2="420" stroke-dasharray="2 16"/>
+    <line x1="1000" y1="0" x2="1000" y2="420" stroke-dasharray="2 16"/>
+    <line x1="0" y1="210" x2="1200" y2="210" stroke-dasharray="2 16"/>
+    <circle cx="200" cy="210" r="12" fill="none" stroke="#38BDF8" stroke-dasharray="2 4"/>
+    <circle cx="1000" cy="210" r="12" fill="none" stroke="#818CF8" stroke-dasharray="2 4"/>
+  </g>
+
+  <!-- Ambient glowing gradient mesh aura behind title -->
+  <g>
+    <ellipse cx="600" cy="235" rx="440" ry="115" fill="url(#titleAura)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <animate attributeName="rx" values="430;460;430" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </ellipse>
+    <ellipse cx="600" cy="225" rx="270" ry="70" fill="url(#titleCoreGlow)">
+      <animate attributeName="opacity" values="0.65;0.95;0.65" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </ellipse>
+  </g>
+
+  <!-- Top bar: Live status indicator with radar pulses & location -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8A8A93">
+    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    
+    <!-- Radar Waves -->
+    <circle cx="52" cy="50" r="3.5" fill="none" stroke="#10B981" stroke-width="1.2">
+      <animate attributeName="r" values="3.5;18" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
+      <animate attributeName="opacity" values="0.85;0" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
+    </circle>
+    <circle cx="52" cy="50" r="3.5" fill="none" stroke="#38BDF8" stroke-width="1">
+      <animate attributeName="r" values="3.5;18" begin="1.2s" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
+      <animate attributeName="opacity" values="0.85;0" begin="1.2s" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
+    </circle>
+    
+    <!-- Central luminous status core -->
+    <circle cx="52" cy="50" r="4.5" fill="#34D399" opacity="0.4" filter="url(#glowDot)">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="52" cy="50" r="3.5" fill="#10B981"/>
+
+    <!-- Status text with cyber tag -->
+    <text x="70" y="54" fill="#A1A1AA">AVAILABLE FOR INTERNSHIPS + FREELANCE</text>
+    <text x="1148" y="54" text-anchor="end" fill="#8A8A93">KALOL, INDIA <tspan fill="#38BDF8" font-size="10">● 23°N 72°E</tspan></text>
+  </g>
+
+  <!-- Tagline 1: FULL-STACK DEVELOPER -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="7" fill="#8A8A93" text-anchor="middle">
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="600" y="158" fill="#9CA3AF">FULL-STACK DEVELOPER</text>
+  </g>
+
+  <!-- Main Title: MAHER BHATT with Metallic Shimmer Sheen -->
+  <g opacity="0" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="12" text-anchor="middle">
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <!-- Base text with high-contrast luxury platinum fill -->
+    <text x="600" y="246" fill="#D4D4D8">MAHER BHATT</text>
+    <!-- Overlay sheen text -->
+    <text x="600" y="246" fill="url(#sheen)">MAHER BHATT</text>
+  </g>
+
+  <!-- Sleek Glowing Horizon / Divider line -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="1.2s" fill="freeze"/>
+    <line x1="510" y1="272" x2="690" y2="272" stroke="url(#lineGlow)" stroke-width="1.5">
+      <animate attributeName="x1" from="600" to="510" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="x2" from="600" to="690" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    </line>
+    <circle cx="600" cy="272" r="2" fill="#FFFFFF" filter="url(#glowDot)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Core pillars: SECURITY · AI SYSTEMS · FOUNDER -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="14" letter-spacing="6" fill="#8A8A93" text-anchor="middle">
+    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="600" y="312" fill="#A1A1AA">SECURITY   <tspan fill="#38BDF8">·</tspan>   AI SYSTEMS   <tspan fill="#818CF8">·</tspan>   FOUNDER</text>
+  </g>
+
+  <!-- Project index telemetry row -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="4" fill="#6B6B73" text-anchor="middle">
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="600" y="372">K.A.L.K.I.     <tspan fill="#4B5563">/</tspan>     CODEDROID     <tspan fill="#4B5563">/</tspan>     CIVIC SATHI     <tspan fill="#4B5563">/</tspan>     MULTI-AGENT RESEARCH</text>
+  </g>
+
+  <!-- Animated HUD Framing Corner Brackets with Breathing Opacity -->
+  <g fill="none" stroke="#C9CCD1" stroke-width="1.2">
+    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <!-- Top-Left -->
+    <path d="M26 66 V32 a6 6 0 0 1 6-6 h34"/>
+    <circle cx="26" cy="26" r="1.5" fill="#38BDF8"/>
+    <!-- Top-Right -->
+    <path d="M1174 66 V32 a6 6 0 0 0 -6-6 h-34"/>
+    <circle cx="1174" cy="26" r="1.5" fill="#818CF8"/>
+    <!-- Bottom-Left -->
+    <path d="M26 354 V388 a6 6 0 0 0 6 6 h34"/>
+    <circle cx="26" cy="394" r="1.5" fill="#38BDF8"/>
+    <!-- Bottom-Right -->
+    <path d="M1174 354 V388 a6 6 0 0 1 -6 6 h-34"/>
+    <circle cx="1174" cy="394" r="1.5" fill="#818CF8"/>
+  </g>
+</g>
+
+<!-- Outer canvas border with smooth line drawing -->
+<rect x="0.5" y="0.5" width="1199" height="419" rx="22" fill="none" stroke="#3A3A42" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+  <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+</rect>
+</svg>

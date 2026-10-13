@@ -1,1 +1,220 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Terminal session"><defs><clipPath id="c"><rect width="1200" height="520" rx="22"/></clipPath><radialGradient id="vig" cx="50%" cy="0%" r="90%"><stop offset="0" stop-color="#1D1D22"/><stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/></radialGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.05 0"/></filter></defs><g clip-path="url(#c)"><rect width="1200" height="520" fill="#0B0B0D"/><rect width="1200" height="520" fill="url(#vig)"/><rect width="1200" height="520" filter="url(#grain)"/><rect width="1200" height="52" fill="#101013"/><rect y="52" width="1200" height="1" fill="#26262B"/><circle cx="34" cy="26" r="6" fill="#26262B"/><circle cx="58" cy="26" r="6" fill="#26262B"/><circle cx="82" cy="26" r="6" fill="#26262B"/><text x="600" y="31" text-anchor="middle" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#6B6B73" letter-spacing="1">maher — zsh — 120×30</text><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.8s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="108"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">whoami</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.1s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="138" xml:space="preserve" fill="#8A8A93">  maher_bhatt  //  full-stack developer · security · founder</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.5s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="170"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">cat stack.txt</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.8s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="200" xml:space="preserve" fill="#8A8A93">  react · typescript · node · python · kotlin · java · c</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.2s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="232"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">./status --building</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.5s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="262" xml:space="preserve" fill="#8A8A93">  k.a.l.k.i · codedroid · civic sathi · statskill ai</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="2.8999999999999995s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.8999999999999995s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="294"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">./status --learning</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="3.1999999999999993s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.1999999999999993s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="324" xml:space="preserve" fill="#8A8A93">  git · python · dsa · dbms · java/oop</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="3.5999999999999996s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.5999999999999996s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="356"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">echo $PHILOSOPHY</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="3.8999999999999995s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.8999999999999995s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="386" xml:space="preserve" fill="#8A8A93">  ship first. then earn the right to call it mastery.</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="4.3s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="4.3s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="418"><tspan fill="#8A8A93">$ </tspan><tspan fill="#ECECEE">hire --maher</tspan></text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="4.6s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="4.6s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="448" xml:space="preserve" fill="#C9CCD1">  [ ok ]  open to internships · freelance · ai dev-tools collabs</text></g><g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="18"><animate attributeName="opacity" from="0" to="1" begin="5.3999999999999995s" dur="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" begin="5.3999999999999995s" dur="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="48" y="480" fill="#8A8A93">$ </text><rect x="68" y="464" width="10" height="20" fill="#C9CCD1"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" calcMode="discrete"/></rect></g></g><rect x="0.5" y="0.5" width="1199" height="519" rx="22" fill="none" stroke="#3A3A42" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Terminal session">
+<defs>
+  <clipPath id="c"><rect width="1200" height="520" rx="22"/></clipPath>
+  
+  <!-- Obsidian dark vignette -->
+  <radialGradient id="vig" cx="50%" cy="0%" r="90%">
+    <stop offset="0" stop-color="#1D1D22"/>
+    <stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Ambient terminal corner glow: Cyan top-left, Violet bottom-right -->
+  <radialGradient id="cornerGlowTL" cx="0%" cy="0%" r="60%">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cornerGlowBR" cx="100%" cy="100%" r="60%">
+    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Window dot glows -->
+  <filter id="dotGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Emerald status glow for [ OK ] -->
+  <filter id="okGlow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Caret glow -->
+  <filter id="caretGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Subtle CRT scanline pattern -->
+  <pattern id="scanlines" width="100%" height="4" patternUnits="userSpaceOnUse">
+    <line x1="0" y1="0" x2="1200" y2="0" stroke="#FFFFFF" stroke-opacity="0.015" stroke-width="1"/>
+  </pattern>
+
+  <!-- Noise grain filter -->
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+    <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.04 0"/>
+  </filter>
+</defs>
+
+<g clip-path="url(#c)">
+  <!-- Terminal window background layers -->
+  <rect width="1200" height="520" fill="#0B0B0D"/>
+  <rect width="1200" height="520" fill="url(#vig)"/>
+  <rect width="1200" height="520" fill="url(#cornerGlowTL)"/>
+  <rect width="1200" height="520" fill="url(#cornerGlowBR)"/>
+  <rect width="1200" height="520" fill="url(#scanlines)"/>
+  <rect width="1200" height="520" filter="url(#grain)"/>
+
+  <!-- Window titlebar -->
+  <rect width="1200" height="52" fill="#111116"/>
+  <rect y="52" width="1200" height="1" fill="#26262F"/>
+
+  <!-- macOS Window control buttons with subtle glow -->
+  <!-- Close: Red -->
+  <circle cx="34" cy="26" r="6" fill="#FF5F56" filter="url(#dotGlow)"/>
+  <circle cx="34" cy="26" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width="0.8"/>
+  <circle cx="34" cy="24.5" r="2" fill="#FFA5A0" opacity="0.45"/>
+
+  <!-- Minimize: Yellow -->
+  <circle cx="56" cy="26" r="6" fill="#FFBD2E" filter="url(#dotGlow)"/>
+  <circle cx="56" cy="26" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width="0.8"/>
+  <circle cx="56" cy="24.5" r="2" fill="#FFE599" opacity="0.45"/>
+
+  <!-- Maximize: Green -->
+  <circle cx="78" cy="26" r="6" fill="#27C93F" filter="url(#dotGlow)"/>
+  <circle cx="78" cy="26" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width="0.8"/>
+  <circle cx="78" cy="24.5" r="2" fill="#88F399" opacity="0.45"/>
+
+  <!-- Window title -->
+  <text x="600" y="32" text-anchor="middle" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#8E8E98" letter-spacing="1">maher@obsidian — zsh — 120×30</text>
+  <text x="1152" y="32" text-anchor="end" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#4B5563" letter-spacing="1">UTF-8</text>
+
+  <!-- Line 1: whoami -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.6s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="104">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">whoami</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.9s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="134" xml:space="preserve">
+      <tspan fill="#F3F4F6">  maher_bhatt</tspan>  <tspan fill="#4B5563">//</tspan>  <tspan fill="#9CA3AF">full-stack developer · security · founder</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2: cat stack.txt -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.3s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="168">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">cat </tspan>
+      <tspan fill="#A78BFA">stack.txt</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.6s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="198" xml:space="preserve">
+      <tspan fill="#D1D5DB">  react </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> typescript </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> node </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> python </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> kotlin </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> java </tspan><tspan fill="#818CF8">·</tspan><tspan fill="#D1D5DB"> c</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3: ./status building -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.0s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="232">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">./status </tspan>
+      <tspan fill="#A78BFA">--building</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.3s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="262" xml:space="preserve">
+      <tspan fill="#D1D5DB">  k.a.l.k.i </tspan><tspan fill="#38BDF8">·</tspan><tspan fill="#D1D5DB"> codedroid </tspan><tspan fill="#38BDF8">·</tspan><tspan fill="#D1D5DB"> civic sathi </tspan><tspan fill="#38BDF8">·</tspan><tspan fill="#D1D5DB"> statskill ai</tspan>
+    </text>
+  </g>
+
+  <!-- Line 4: ./status learning -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.7s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="296">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">./status </tspan>
+      <tspan fill="#A78BFA">--learning</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.0s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="326" xml:space="preserve">
+      <tspan fill="#D1D5DB">  git </tspan><tspan fill="#F59E0B">·</tspan><tspan fill="#D1D5DB"> python </tspan><tspan fill="#F59E0B">·</tspan><tspan fill="#D1D5DB"> dsa </tspan><tspan fill="#F59E0B">·</tspan><tspan fill="#D1D5DB"> dbms </tspan><tspan fill="#F59E0B">·</tspan><tspan fill="#D1D5DB"> java/oop</tspan>
+    </text>
+  </g>
+
+  <!-- Line 5: echo $PHILOSOPHY -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.4s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="360">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">echo </tspan>
+      <tspan fill="#F59E0B">$PHILOSOPHY</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="3.7s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="390" xml:space="preserve">
+      <tspan fill="#F3F4F6">  "ship first. then earn the right to call it mastery."</tspan>
+    </text>
+  </g>
+
+  <!-- Line 6: hire maher -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="4.1s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="424">
+      <tspan fill="#38BDF8">$ </tspan>
+      <tspan fill="#38BDF8" font-weight="600">hire </tspan>
+      <tspan fill="#A78BFA">--maher</tspan>
+    </text>
+  </g>
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="4.4s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="454" xml:space="preserve">
+      <tspan fill="#10B981" font-weight="700" filter="url(#okGlow)">  [ OK ]</tspan>  <tspan fill="#ECECEE">open to internships · freelance · ai dev-tools collabs</tspan>
+    </text>
+  </g>
+
+  <!-- Line 7: Active prompt with Glowing Blinking Block Caret -->
+  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="17">
+    <animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="48" y="488" fill="#38BDF8">$ </text>
+    
+    <!-- Caret Glow Aura -->
+    <rect x="65" y="471" width="16" height="23" rx="3" fill="#38BDF8" opacity="0.35" filter="url(#caretGlow)">
+      <animate attributeName="opacity" values="0.35;0;0.35" dur="1.0s" begin="5.0s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+    <!-- Solid Caret Block -->
+    <rect x="68" y="473" width="10" height="19" rx="1.5" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0;1" dur="1.0s" begin="5.0s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+</g>
+
+<!-- Outer canvas border with smooth line drawing -->
+<rect x="0.5" y="0.5" width="1199" height="519" rx="22" fill="none" stroke="#3A3A42" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+  <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+</rect>
+</svg>

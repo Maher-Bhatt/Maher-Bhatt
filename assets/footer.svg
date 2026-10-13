@@ -1,1 +1,122 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Engineering honestly. Shipping consistently. Building in public."><defs><clipPath id="c"><rect width="1200" height="170" rx="22"/></clipPath><radialGradient id="vig" cx="50%" cy="0%" r="90%"><stop offset="0" stop-color="#1D1D22"/><stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/></radialGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.05 0"/></filter></defs><g clip-path="url(#c)"><rect width="1200" height="170" fill="#0B0B0D"/><rect width="1200" height="170" fill="url(#vig)"/><rect width="1200" height="170" filter="url(#grain)"/><line x1="300" y1="64" x2="900" y2="64" stroke="#3A3A42"/><circle cy="64" r="3" fill="#C9CCD1"><animate attributeName="cx" values="300;900;300" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle><g opacity="0" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="26" fill="#C4C4CB" text-anchor="middle" letter-spacing="1"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.6s" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/><text x="600" y="112">Engineering honestly. Shipping consistently. Building in public.</text></g></g><rect x="0.5" y="0.5" width="1199" height="169" rx="22" fill="none" stroke="#3A3A42" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Engineering honestly. Shipping consistently. Building in public.">
+<defs>
+  <clipPath id="c"><rect width="1200" height="170" rx="22"/></clipPath>
+  
+  <!-- Obsidian dark vignette -->
+  <radialGradient id="vig" cx="50%" cy="0%" r="90%">
+    <stop offset="0" stop-color="#1D1D22"/>
+    <stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Ambient glowing aura behind typography -->
+  <radialGradient id="textAura" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.22"/>
+    <stop offset="40%" stop-color="#38BDF8" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Glowing divider line base gradient -->
+  <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset="20%" stop-color="#38BDF8" stop-opacity="0.4"/>
+    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+    <stop offset="80%" stop-color="#818CF8" stop-opacity="0.4"/>
+    <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+  </linearGradient>
+
+  <!-- Luminous metallic shimmer across footer motto -->
+  <linearGradient id="footerSheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="0.3" stop-color="#38BDF8" stop-opacity="0.4"/>
+    <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.95"/>
+    <stop offset="0.7" stop-color="#A78BFA" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-350 0;-350 0;1350 0" keyTimes="0;0.15;1" dur="7s" begin="2.0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.25 0 0.25 1"/>
+  </linearGradient>
+
+  <!-- Glow filter -->
+  <filter id="beamGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Noise grain filter -->
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+    <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.04 0"/>
+  </filter>
+</defs>
+
+<g clip-path="url(#c)">
+  <!-- Background layers -->
+  <rect width="1200" height="170" fill="#0B0B0D"/>
+  <rect width="1200" height="170" fill="url(#vig)"/>
+  <rect width="1200" height="170" filter="url(#grain)"/>
+
+  <!-- Ambient glowing aura behind motto -->
+  <ellipse cx="600" cy="112" rx="420" ry="45" fill="url(#textAura)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </ellipse>
+
+  <!-- Sub-frequency subtle energy waveforms -->
+  <g opacity="0.18" fill="none" stroke="#38BDF8" stroke-width="1">
+    <path d="M260 64 Q 430 52, 600 64 T 940 64">
+      <animate attributeName="d" values="M260 64 Q 430 54, 600 64 T 940 64; M260 64 Q 430 74, 600 64 T 940 64; M260 64 Q 430 54, 600 64 T 940 64" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </path>
+    <path d="M260 64 Q 430 74, 600 64 T 940 64" stroke="#818CF8">
+      <animate attributeName="d" values="M260 64 Q 430 74, 600 64 T 940 64; M260 64 Q 430 54, 600 64 T 940 64; M260 64 Q 430 74, 600 64 T 940 64" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </path>
+  </g>
+
+  <!-- Glowing divider line base -->
+  <line x1="240" y1="64" x2="960" y2="64" stroke="url(#dividerGrad)" stroke-width="1.6"/>
+
+  <!-- Center crossing resonance anchor ring -->
+  <circle cx="600" cy="64" r="3.5" fill="#FFFFFF" filter="url(#beamGlow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- DUAL OSCILLATING ENERGY PARTICLES ACROSS DIVIDER LINE -->
+  <!-- Particle 1: Cyan particle (sweeping left-to-right-to-left) -->
+  <g>
+    <!-- Halo glow -->
+    <circle cy="64" r="7" fill="#38BDF8" opacity="0.4" filter="url(#beamGlow)">
+      <animate attributeName="cx" values="260;940;260" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <!-- Bright white core -->
+    <circle cy="64" r="3" fill="#FFFFFF">
+      <animate attributeName="cx" values="260;940;260" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+  </g>
+
+  <!-- Particle 2: Violet particle (sweeping right-to-left-to-right) -->
+  <g>
+    <!-- Halo glow -->
+    <circle cy="64" r="7" fill="#818CF8" opacity="0.4" filter="url(#beamGlow)">
+      <animate attributeName="cx" values="940;260;940" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <!-- Bright core -->
+    <circle cy="64" r="3" fill="#DDD6FE">
+      <animate attributeName="cx" values="940;260;940" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+  </g>
+
+  <!-- Glowing typography: 'Engineering honestly. Shipping consistently. Building in public.' -->
+  <g opacity="0" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="26" text-anchor="middle" letter-spacing="1">
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.5s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <!-- Base text with high-contrast platinum fill -->
+    <text x="600" y="116" fill="#D4D4D8">Engineering honestly. Shipping consistently. Building in public.</text>
+    <!-- Overlay shimmer sheen text -->
+    <text x="600" y="116" fill="url(#footerSheen)">Engineering honestly. Shipping consistently. Building in public.</text>
+  </g>
+</g>
+
+<!-- Outer border with smooth line drawing -->
+<rect x="0.5" y="0.5" width="1199" height="169" rx="22" fill="none" stroke="#3A3A42" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+  <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+</rect>
+</svg>
