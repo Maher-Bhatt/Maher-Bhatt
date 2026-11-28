@@ -1,177 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Maher Bhatt — Full-Stack Developer, Security, AI Systems, Founder">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 660" width="1200" height="660" role="img" aria-label="Maher Bhatt, founder of Qavironel Technologies. Systems engineer: applied AI, full-stack, security. Projects: Qavironel, K.A.L.K.I., CodeDroid, Civic Sathi, maherbhatt.me, CampusLoop, Z Tees, Classic Infra.">
+<style>
+text{font-family:'Inter','SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace}
+.draw{stroke-dasharray:1;animation:draw 1.8s cubic-bezier(.65,0,.35,1) backwards}
+@keyframes draw{from{stroke-dashoffset:1}}
+.fade{animation:fade 1.1s ease backwards}
+@keyframes fade{from{opacity:0}}
+.rise{animation:rise 1.2s cubic-bezier(.16,1,.3,1) backwards}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}}
+
+.orb{opacity:.13;animation:drift 32s ease-in-out infinite alternate}
+@keyframes drift{0%{transform:translate(0,0)}50%{transform:translate(50px,-30px)}100%{transform:translate(-40px,24px)}}
+.name{animation:up 1.4s cubic-bezier(.16,1,.3,1) .35s backwards}
+@keyframes up{from{transform:translateY(120px)}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(.16,1,.3,1) infinite}
+@keyframes ping{from{transform:scale(1);opacity:.6}to{transform:scale(3.2);opacity:0}}
+.rule{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.65,0,.35,1) 2.2s backwards}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
 <defs>
-  <clipPath id="c"><rect width="1200" height="420" rx="22"/></clipPath>
-  
-  <!-- Obsidian dark vignette -->
-  <radialGradient id="vig" cx="50%" cy="0%" r="90%">
-    <stop offset="0" stop-color="#1D1D22"/>
-    <stop offset="0.6" stop-color="#0B0B0D" stop-opacity="0"/>
-  </radialGradient>
-  
-  <!-- Ambient glowing gradient mesh aura behind title -->
-  <radialGradient id="titleAura" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.32"/>
-    <stop offset="35%" stop-color="#38BDF8" stop-opacity="0.18"/>
-    <stop offset="70%" stop-color="#0EA5E9" stop-opacity="0.05"/>
-    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
-  </radialGradient>
-  
-  <radialGradient id="titleCoreGlow" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#C084FC" stop-opacity="0.28"/>
-    <stop offset="50%" stop-color="#818CF8" stop-opacity="0.12"/>
-    <stop offset="100%" stop-color="#0B0B0D" stop-opacity="0"/>
-  </radialGradient>
-
-  <!-- High-tech iridescent metallic sheen sweep -->
-  <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="320" y2="0">
-    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="0.25" stop-color="#38BDF8" stop-opacity="0.35"/>
-    <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.95"/>
-    <stop offset="0.7" stop-color="#A78BFA" stop-opacity="0.45"/>
-    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-    <animateTransform attributeName="gradientTransform" type="translate" values="-380 0;-380 0;1360 0" keyTimes="0;0.12;1" dur="7.5s" begin="2.0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.25 0 0.25 1"/>
-  </linearGradient>
-
-  <!-- Glowing divider line gradient -->
-  <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
-    <stop offset="30%" stop-color="#38BDF8" stop-opacity="0.8"/>
-    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
-    <stop offset="70%" stop-color="#818CF8" stop-opacity="0.8"/>
-    <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
-  </linearGradient>
-
-  <!-- Subtle grain filter -->
-  <filter id="grain">
-    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
-    <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.04 0"/>
-  </filter>
-
-  <!-- Soft glow filter for radar and status elements -->
-  <filter id="glowDot" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="2.5" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
+<clipPath id="c"><rect width="1200" height="660" rx="24"/></clipPath>
+<clipPath id="nameclip"><rect x="0" y="222" width="1200" height="128"/></clipPath>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="80"/></filter>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.045 0"/></filter><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12.0" cy="12.0" r=".9" fill="#FFFFFF" fill-opacity="0.08"/></pattern>
+<radialGradient id="gridmask" cx="50%" cy="45%" r="60%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="gm"><rect width="1200" height="660" fill="url(#gridmask)"/></mask>
+<linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#9E9EA8"/></linearGradient>
+<linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="240" y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".6"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-300 0;1300 0;1300 0" keyTimes="0;.35;1" dur="7s" begin="1.6s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="vig" cx="50%" cy="50%" r="72%"><stop offset=".55" stop-color="#09090B" stop-opacity="0"/><stop offset="1" stop-color="#09090B" stop-opacity=".92"/></radialGradient>
 </defs>
-
 <g clip-path="url(#c)">
-  <!-- Base background layers -->
-  <rect width="1200" height="420" fill="#0B0B0D"/>
-  <rect width="1200" height="420" fill="url(#vig)"/>
-  <rect width="1200" height="420" filter="url(#grain)"/>
-
-  <!-- Subtle cyber background grid / crosshairs -->
-  <g opacity="0.08" stroke="#FFFFFF" stroke-width="1">
-    <line x1="200" y1="0" x2="200" y2="420" stroke-dasharray="2 16"/>
-    <line x1="1000" y1="0" x2="1000" y2="420" stroke-dasharray="2 16"/>
-    <line x1="0" y1="210" x2="1200" y2="210" stroke-dasharray="2 16"/>
-    <circle cx="200" cy="210" r="12" fill="none" stroke="#38BDF8" stroke-dasharray="2 4"/>
-    <circle cx="1000" cy="210" r="12" fill="none" stroke="#818CF8" stroke-dasharray="2 4"/>
-  </g>
-
-  <!-- Ambient glowing gradient mesh aura behind title -->
-  <g>
-    <ellipse cx="600" cy="235" rx="440" ry="115" fill="url(#titleAura)">
-      <animate attributeName="opacity" values="0.75;1;0.75" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-      <animate attributeName="rx" values="430;460;430" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-    </ellipse>
-    <ellipse cx="600" cy="225" rx="270" ry="70" fill="url(#titleCoreGlow)">
-      <animate attributeName="opacity" values="0.65;0.95;0.65" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-    </ellipse>
-  </g>
-
-  <!-- Top bar: Live status indicator with radar pulses & location -->
-  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8A8A93">
-    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.4s" dur="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    
-    <!-- Radar Waves -->
-    <circle cx="52" cy="50" r="3.5" fill="none" stroke="#10B981" stroke-width="1.2">
-      <animate attributeName="r" values="3.5;18" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
-      <animate attributeName="opacity" values="0.85;0" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
-    </circle>
-    <circle cx="52" cy="50" r="3.5" fill="none" stroke="#38BDF8" stroke-width="1">
-      <animate attributeName="r" values="3.5;18" begin="1.2s" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
-      <animate attributeName="opacity" values="0.85;0" begin="1.2s" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.1 0.8 0.3 1"/>
-    </circle>
-    
-    <!-- Central luminous status core -->
-    <circle cx="52" cy="50" r="4.5" fill="#34D399" opacity="0.4" filter="url(#glowDot)">
-      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="52" cy="50" r="3.5" fill="#10B981"/>
-
-    <!-- Status text with cyber tag -->
-    <text x="70" y="54" fill="#A1A1AA">AVAILABLE FOR INTERNSHIPS + FREELANCE</text>
-    <text x="1148" y="54" text-anchor="end" fill="#8A8A93">KALOL, INDIA <tspan fill="#38BDF8" font-size="10">● 23°N 72°E</tspan></text>
-  </g>
-
-  <!-- Tagline 1: FULL-STACK DEVELOPER -->
-  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="7" fill="#8A8A93" text-anchor="middle">
-    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.7s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <text x="600" y="158" fill="#9CA3AF">FULL-STACK DEVELOPER</text>
-  </g>
-
-  <!-- Main Title: MAHER BHATT with Metallic Shimmer Sheen -->
-  <g opacity="0" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="12" text-anchor="middle">
-    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="1.0s" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <!-- Base text with high-contrast luxury platinum fill -->
-    <text x="600" y="246" fill="#D4D4D8">MAHER BHATT</text>
-    <!-- Overlay sheen text -->
-    <text x="600" y="246" fill="url(#sheen)">MAHER BHATT</text>
-  </g>
-
-  <!-- Sleek Glowing Horizon / Divider line -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="1.2s" fill="freeze"/>
-    <line x1="510" y1="272" x2="690" y2="272" stroke="url(#lineGlow)" stroke-width="1.5">
-      <animate attributeName="x1" from="600" to="510" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="x2" from="600" to="690" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    </line>
-    <circle cx="600" cy="272" r="2" fill="#FFFFFF" filter="url(#glowDot)">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Core pillars: SECURITY · AI SYSTEMS · FOUNDER -->
-  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="14" letter-spacing="6" fill="#8A8A93" text-anchor="middle">
-    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="2.0s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <text x="600" y="312" fill="#A1A1AA">SECURITY   <tspan fill="#38BDF8">·</tspan>   AI SYSTEMS   <tspan fill="#818CF8">·</tspan>   FOUNDER</text>
-  </g>
-
-  <!-- Project index telemetry row -->
-  <g opacity="0" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="4" fill="#6B6B73" text-anchor="middle">
-    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.4s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-    <text x="600" y="372">K.A.L.K.I.     <tspan fill="#4B5563">/</tspan>     CODEDROID     <tspan fill="#4B5563">/</tspan>     CIVIC SATHI     <tspan fill="#4B5563">/</tspan>     MULTI-AGENT RESEARCH</text>
-  </g>
-
-  <!-- Animated HUD Framing Corner Brackets with Breathing Opacity -->
-  <g fill="none" stroke="#C9CCD1" stroke-width="1.2">
-    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-    <!-- Top-Left -->
-    <path d="M26 66 V32 a6 6 0 0 1 6-6 h34"/>
-    <circle cx="26" cy="26" r="1.5" fill="#38BDF8"/>
-    <!-- Top-Right -->
-    <path d="M1174 66 V32 a6 6 0 0 0 -6-6 h-34"/>
-    <circle cx="1174" cy="26" r="1.5" fill="#818CF8"/>
-    <!-- Bottom-Left -->
-    <path d="M26 354 V388 a6 6 0 0 0 6 6 h34"/>
-    <circle cx="26" cy="394" r="1.5" fill="#38BDF8"/>
-    <!-- Bottom-Right -->
-    <path d="M1174 354 V388 a6 6 0 0 1 -6 6 h-34"/>
-    <circle cx="1174" cy="394" r="1.5" fill="#818CF8"/>
-  </g>
+<rect width="1200" height="660" fill="#09090B"/>
+<rect width="1200" height="660" fill="url(#dots)" mask="url(#gm)"/>
+<g filter="url(#blur)"><circle class="orb" cx="600" cy="300" r="220" fill="#EE5216" style="animation-duration:28s;animation-delay:-9s"/><circle class="orb" cx="860" cy="220" r="160" fill="#A99BF0" style="animation-duration:33s;animation-delay:-11s"/><circle class="orb" cx="360" cy="380" r="170" fill="#7AA7F5" style="animation-duration:31s;animation-delay:-10s"/><circle class="orb" cx="420" cy="180" r="130" fill="#E9B949" style="animation-duration:36s;animation-delay:-12s"/></g>
+<rect width="1200" height="660" fill="url(#vig)"/>
+<path class="draw" pathLength="1" d="M60.0,104.0 L121.3,104.0 L259.3,242.0 L292.0,242.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.65s"/><path class="draw" pathLength="1" d="M60.0,120.0 L114.7,120.0 L252.7,258.0 L292.0,258.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.65s"/><path id="rL0" class="draw" pathLength="1" d="M60.0,112.0 L118.0,112.0 L256.0,250.0 L292.0,250.0" fill="none" stroke="#EE5216" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.50s"/><circle class="fade" cx="292" cy="250" r="2.6" fill="#EE5216" style="animation-delay:2.00s"/><path class="draw" pathLength="1" d="M60.0,212.0 L185.3,212.0 L259.3,286.0 L292.0,286.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.83s"/><path class="draw" pathLength="1" d="M60.0,228.0 L178.7,228.0 L252.7,302.0 L292.0,302.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.83s"/><path id="rL1" class="draw" pathLength="1" d="M60.0,220.0 L182.0,220.0 L256.0,294.0 L292.0,294.0" fill="none" stroke="#E9B949" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.68s"/><circle class="fade" cx="292" cy="294" r="2.6" fill="#E9B949" style="animation-delay:2.18s"/><path class="draw" pathLength="1" d="M60.0,384.0 L198.7,384.0 L252.7,330.0 L292.0,330.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.01s"/><path class="draw" pathLength="1" d="M60.0,400.0 L205.3,400.0 L259.3,346.0 L292.0,346.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.01s"/><path id="rL2" class="draw" pathLength="1" d="M60.0,392.0 L202.0,392.0 L256.0,338.0 L292.0,338.0" fill="none" stroke="#7FC8A0" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.86s"/><circle class="fade" cx="292" cy="338" r="2.6" fill="#7FC8A0" style="animation-delay:2.36s"/><path class="draw" pathLength="1" d="M60.0,482.0 L144.7,482.0 L252.7,374.0 L292.0,374.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.19s"/><path class="draw" pathLength="1" d="M60.0,498.0 L151.3,498.0 L259.3,390.0 L292.0,390.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.19s"/><path id="rL3" class="draw" pathLength="1" d="M60.0,490.0 L148.0,490.0 L256.0,382.0 L292.0,382.0" fill="none" stroke="#5BB8C4" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:1.04s"/><circle class="fade" cx="292" cy="382" r="2.6" fill="#5BB8C4" style="animation-delay:2.54s"/><path class="draw" pathLength="1" d="M1140.0,120.0 L1085.3,120.0 L947.3,258.0 L908.0,258.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.74s"/><path class="draw" pathLength="1" d="M1140.0,104.0 L1078.7,104.0 L940.7,242.0 L908.0,242.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.74s"/><path id="rR0" class="draw" pathLength="1" d="M1140.0,112.0 L1082.0,112.0 L944.0,250.0 L908.0,250.0" fill="none" stroke="#A99BF0" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.59s"/><circle class="fade" cx="908" cy="250" r="2.6" fill="#A99BF0" style="animation-delay:2.09s"/><path class="draw" pathLength="1" d="M1140.0,228.0 L1021.3,228.0 L947.3,302.0 L908.0,302.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.92s"/><path class="draw" pathLength="1" d="M1140.0,212.0 L1014.7,212.0 L940.7,286.0 L908.0,286.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:0.92s"/><path id="rR1" class="draw" pathLength="1" d="M1140.0,220.0 L1018.0,220.0 L944.0,294.0 L908.0,294.0" fill="none" stroke="#7AA7F5" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.77s"/><circle class="fade" cx="908" cy="294" r="2.6" fill="#7AA7F5" style="animation-delay:2.27s"/><path class="draw" pathLength="1" d="M1140.0,400.0 L994.7,400.0 L940.7,346.0 L908.0,346.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.10s"/><path class="draw" pathLength="1" d="M1140.0,384.0 L1001.3,384.0 L947.3,330.0 L908.0,330.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.10s"/><path id="rR2" class="draw" pathLength="1" d="M1140.0,392.0 L998.0,392.0 L944.0,338.0 L908.0,338.0" fill="none" stroke="#E88A8A" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:0.95s"/><circle class="fade" cx="908" cy="338" r="2.6" fill="#E88A8A" style="animation-delay:2.45s"/><path class="draw" pathLength="1" d="M1140.0,498.0 L1048.7,498.0 L940.7,390.0 L908.0,390.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.28s"/><path class="draw" pathLength="1" d="M1140.0,482.0 L1055.3,482.0 L947.3,374.0 L908.0,374.0" fill="none" stroke="#FFFFFF" stroke-opacity=".09" style="animation-delay:1.28s"/><path id="rR3" class="draw" pathLength="1" d="M1140.0,490.0 L1052.0,490.0 L944.0,382.0 L908.0,382.0" fill="none" stroke="#D2B48C" stroke-opacity=".85" stroke-width="1.4" style="animation-delay:1.13s"/><circle class="fade" cx="908" cy="382" r="2.6" fill="#D2B48C" style="animation-delay:2.63s"/><circle r="2.6" fill="#EE5216" opacity="0"><animateMotion dur="4.2s" begin="3.00s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rL0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="3.00s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#E9B949" opacity="0"><animateMotion dur="4.2s" begin="3.70s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rL1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="3.70s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#7FC8A0" opacity="0"><animateMotion dur="4.2s" begin="4.40s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rL2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="4.40s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#5BB8C4" opacity="0"><animateMotion dur="4.2s" begin="5.10s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rL3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="5.10s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#A99BF0" opacity="0"><animateMotion dur="4.2s" begin="3.35s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rR0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="3.35s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#7AA7F5" opacity="0"><animateMotion dur="4.2s" begin="4.05s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rR1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="4.05s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#E88A8A" opacity="0"><animateMotion dur="4.2s" begin="4.75s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rR2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="4.75s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#D2B48C" opacity="0"><animateMotion dur="4.2s" begin="5.45s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1;1" keyTimes="0;.55;1" keySplines=".5 0 .5 1;0 0 1 1"><mpath xlink:href="#rR3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.5;.56;1" dur="4.2s" begin="5.45s" repeatCount="indefinite"/></circle><g class="fade" style="animation-delay:0.70s"><circle cx="60" cy="112" r="10" fill="#09090B" stroke="#EE5216" stroke-opacity=".4"/><circle cx="60" cy="112" r="3.6" fill="#EE5216"/><text class="mono" x="48" y="76" text-anchor="start" font-size="12" letter-spacing="1.6" fill="#EE5216">QAVIRONEL</text><text class="mono" x="48" y="92" text-anchor="start" font-size="9.5" letter-spacing="1.4" fill="#56565F">STUDIO · FOUNDER</text></g><g class="fade" style="animation-delay:0.88s"><circle cx="60" cy="220" r="10" fill="#09090B" stroke="#E9B949" stroke-opacity=".4"/><circle cx="60" cy="220" r="3.6" fill="#E9B949"/><text class="mono" x="48" y="184" text-anchor="start" font-size="12" letter-spacing="1.6" fill="#E9B949">K.A.L.K.I.</text><text class="mono" x="48" y="200" text-anchor="start" font-size="9.5" letter-spacing="1.4" fill="#56565F">AI ASSISTANT</text></g><g class="fade" style="animation-delay:1.06s"><circle cx="60" cy="392" r="10" fill="#09090B" stroke="#7FC8A0" stroke-opacity=".4"/><circle cx="60" cy="392" r="3.6" fill="#7FC8A0"/><text class="mono" x="48" y="424" text-anchor="start" font-size="12" letter-spacing="1.6" fill="#7FC8A0">CODEDROID</text><text class="mono" x="48" y="440" text-anchor="start" font-size="9.5" letter-spacing="1.4" fill="#56565F">ANDROID IDE</text></g><g class="fade" style="animation-delay:1.24s"><circle cx="60" cy="490" r="10" fill="#09090B" stroke="#5BB8C4" stroke-opacity=".4"/><circle cx="60" cy="490" r="3.6" fill="#5BB8C4"/><text class="mono" x="48" y="522" text-anchor="start" font-size="12" letter-spacing="1.6" fill="#5BB8C4">CIVIC SATHI</text><text class="mono" x="48" y="538" text-anchor="start" font-size="9.5" letter-spacing="1.4" fill="#56565F">CIVIC PLATFORM</text></g><g class="fade" style="animation-delay:0.79s"><circle cx="1140" cy="112" r="10" fill="#09090B" stroke="#A99BF0" stroke-opacity=".4"/><circle cx="1140" cy="112" r="3.6" fill="#A99BF0"/><text class="mono" x="1152" y="76" text-anchor="end" font-size="12" letter-spacing="1.6" fill="#A99BF0">MAHERBHATT.ME</text><text class="mono" x="1152" y="92" text-anchor="end" font-size="9.5" letter-spacing="1.4" fill="#56565F">CINEMATIC PORTFOLIO</text></g><g class="fade" style="animation-delay:0.97s"><circle cx="1140" cy="220" r="10" fill="#09090B" stroke="#7AA7F5" stroke-opacity=".4"/><circle cx="1140" cy="220" r="3.6" fill="#7AA7F5"/><text class="mono" x="1152" y="184" text-anchor="end" font-size="12" letter-spacing="1.6" fill="#7AA7F5">CAMPUSLOOP</text><text class="mono" x="1152" y="200" text-anchor="end" font-size="9.5" letter-spacing="1.4" fill="#56565F">CAMPUS PLATFORM</text></g><g class="fade" style="animation-delay:1.15s"><circle cx="1140" cy="392" r="10" fill="#09090B" stroke="#E88A8A" stroke-opacity=".4"/><circle cx="1140" cy="392" r="3.6" fill="#E88A8A"/><text class="mono" x="1152" y="424" text-anchor="end" font-size="12" letter-spacing="1.6" fill="#E88A8A">Z TEES</text><text class="mono" x="1152" y="440" text-anchor="end" font-size="9.5" letter-spacing="1.4" fill="#56565F">CLIENT · STREETWEAR</text></g><g class="fade" style="animation-delay:1.33s"><circle cx="1140" cy="490" r="10" fill="#09090B" stroke="#D2B48C" stroke-opacity=".4"/><circle cx="1140" cy="490" r="3.6" fill="#D2B48C"/><text class="mono" x="1152" y="522" text-anchor="end" font-size="12" letter-spacing="1.6" fill="#D2B48C">CLASSIC INFRA</text><text class="mono" x="1152" y="538" text-anchor="end" font-size="9.5" letter-spacing="1.4" fill="#56565F">CLIENT · INFRASTRUCTURE</text></g>
+<text class="mono fade" x="600" y="206" text-anchor="middle" font-size="12.5" letter-spacing="4.5" fill="#8E8E98" style="animation-delay:.2s">FOUNDER <tspan fill="#EE5216">·</tspan> QAVIRONEL TECHNOLOGIES</text>
+<g clip-path="url(#nameclip)"><g class="name">
+<text x="600" y="322" text-anchor="middle" font-size="104" font-weight="700" letter-spacing="-4" fill="url(#ink)">Maher Bhatt</text>
+<text x="600" y="322" text-anchor="middle" font-size="104" font-weight="700" letter-spacing="-4" fill="url(#sheen)">Maher Bhatt</text>
+</g></g>
+<text class="fade" x="600" y="374" text-anchor="middle" font-size="20" fill="#8E8E98" style="animation-delay:1s">Systems engineer  ·  Applied AI  ·  Full-stack  ·  Security</text>
+<g class="fade" style="animation-delay:1.4s"><rect x="286.1" y="404" width="257.9" height="30" rx="15" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".1"/><circle cx="304.1" cy="419" r="3.5" fill="#6FCF97"/><circle class="ping" cx="304.1" cy="419" r="3.5" fill="#6FCF97"/><text class="mono" x="318.1" y="423.5" font-size="11.5" fill="#EDEDEF">Open to internships &amp; freelance</text><rect x="554.0" y="404" width="133.5" height="30" rx="15" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".1"/><text class="mono" x="569.0" y="423.5" font-size="11.5" fill="#8E8E98">Vadodara, India</text><rect x="697.5" y="404" width="216.3" height="30" rx="15" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".1"/><text class="mono" x="712.5" y="423.5" font-size="11.5" fill="#8E8E98">B.Tech CSE · ITM SLS Baroda</text></g>
+<line class="rule" pathLength="1" x1="48" y1="572" x2="1152" y2="572" stroke="#1F1F25"/>
+<g class="rise" style="animation-delay:2.40s"><text x="150" y="612" text-anchor="middle" font-size="22" font-weight="650" letter-spacing="-.4" fill="#EDEDEF">Microsoft Store</text><text class="mono" x="150" y="634" text-anchor="middle" font-size="9.5" letter-spacing="1.6" fill="#56565F">K.A.L.K.I. PUBLISHED</text></g><g class="rise" style="animation-delay:2.52s"><text x="450" y="612" text-anchor="middle" font-size="22" font-weight="650" letter-spacing="-.4" fill="#EDEDEF">2nd place</text><text class="mono" x="450" y="634" text-anchor="middle" font-size="9.5" letter-spacing="1.6" fill="#56565F">BSIDES BUG BOUNTY</text></g><line class="fade" x1="300" y1="592" x2="300" y2="636" stroke="#1F1F25" style="animation-delay:2.4s"/><g class="rise" style="animation-delay:2.64s"><text x="750" y="612" text-anchor="middle" font-size="22" font-weight="650" letter-spacing="-.4" fill="#EDEDEF">SIH 2026</text><text class="mono" x="750" y="634" text-anchor="middle" font-size="9.5" letter-spacing="1.6" fill="#56565F">CIVIC SATHI · NEXT ROUND</text></g><line class="fade" x1="600" y1="592" x2="600" y2="636" stroke="#1F1F25" style="animation-delay:2.4s"/><g class="rise" style="animation-delay:2.76s"><text x="1050" y="612" text-anchor="middle" font-size="22" font-weight="650" letter-spacing="-.4" fill="#EDEDEF">27+</text><text class="mono" x="1050" y="634" text-anchor="middle" font-size="9.5" letter-spacing="1.6" fill="#56565F">VERIFIED CREDENTIALS</text></g><line class="fade" x1="900" y1="592" x2="900" y2="636" stroke="#1F1F25" style="animation-delay:2.4s"/>
+<rect width="1200" height="660" filter="url(#g)"/>
 </g>
-
-<!-- Outer canvas border with smooth line drawing -->
-<rect x="0.5" y="0.5" width="1199" height="419" rx="22" fill="none" stroke="#3A3A42" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
-  <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
-</rect>
+<rect x=".5" y=".5" width="1199" height="659" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
 </svg>
