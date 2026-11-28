@@ -21,6 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=%23C9CCD1&color_dots=%2316161A,%232A2A30,%233D3D46,%235A5A66,%238A8A96
+            dist/snake-light.svg?palette=github-light&color_snake=%230A0A0C&color_dots=%23EBEDF0,%23D0D3D9,%23A9ADB6,%23777C87,%2345484F
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23C9CCD1&color_dots=%2316161A,%232A2A30,%233D3D46,%235A5A66,%238A8A96
 
       - name: Deploy to Output Branch

@@ -62,7 +62,11 @@ I'm a B.Tech CSE student at ITM SLS Baroda University and the founder of **[Qavi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Maher-Bhatt/Maher-Bhatt/output/snake-dark.svg" alt="Contribution graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Bhatt/Maher-Bhatt/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Bhatt/Maher-Bhatt/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/Maher-Bhatt/Maher-Bhatt/output/snake-dark.svg" alt="Contribution graph" width="100%"/>
+</picture>
 
 <br/><br/>
 

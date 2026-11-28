@@ -674,7 +674,8 @@ def footer():
     W, H = 1200, 150
     dots = "".join(f'<circle cx="{600 - 63 + i * 18}" cy="104" r="3.5" fill="{c}" class="pulse" style="animation-delay:{.12 * i:.2f}s"/>' for i, (_, _, _, c) in enumerate(PROJECTS))
     css = ".pulse{animation:pulse 2.8s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}"
-    body = f"""<g transform="translate(582,18) scale(.28)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+    body = f"""<rect width="{W}" height="{H}" rx="20" fill="{BG}"/><rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="19.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<g transform="translate(582,18) scale(.28)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
 <path d="{Q_LOOP}" stroke="{MUTED}"/><path d="{Q_EXIT}" stroke="{ACC['qavironel']}"/></g>
 <text x="600" y="82" text-anchor="middle" font-size="21" font-weight="600" letter-spacing="-.4" fill="{INK}">Engineering honestly. <tspan fill="{MUTED}">Shipping consistently.</tspan></text>{dots}"""
     return svg(W, H, "Engineering honestly. Shipping consistently.", body, css)
